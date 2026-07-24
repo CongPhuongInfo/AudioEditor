@@ -1,5 +1,9 @@
 ﻿# AudioExtractorApp
 
+<p align="center">
+  <img src="AudioEditor-logo.png" width="800">
+</p>
+
 Ứng dụng WinForms VB.NET để tách audio ra khỏi file video, sử dụng ffmpeg.exe làm backend xử lý.
 
 ## Yêu cầu
